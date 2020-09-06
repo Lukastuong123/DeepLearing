@@ -4,26 +4,22 @@ This is my personal projects for the course. The course covers deep learning fro
 
 Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 
+
+
+
+
+
+
+# (NEED TO FIX)
+
  ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- # (NEED TO FIX)
-1. Week1 - [Introduction to deep learning](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning)
-2. Week2 - [Neural Networks Basics](https://github.com/enggen/Deep-Learning-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-3. Week3 - [Shallow neural networks](https://github.com/enggen/Deep-Learning-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-4. Week4 - [Deep Neural Networks](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning)
+1. [Introduction to deep learning](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning)
+2. [Neural Networks Basics](https://github.com/enggen/Deep-Learning-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
+3. [Shallow neural networks](https://github.com/enggen/Deep-Learning-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
+4. [Deep Neural Networks](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning)
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
-
-1. Week1 - [Practical aspects of Deep Learning](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
+1.[Practical aspects of Deep Learning](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
          - Setting up your Machine Learning Application
          - Regularizing your neural network
          - Setting up your optimization problem
