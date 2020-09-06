@@ -20,6 +20,7 @@ Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 1. [Practical aspects of Deep Learning](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
+
          - Setting up your Machine Learning Application
          - Regularizing your neural network
          - Setting up your optimization problem
@@ -29,9 +30,11 @@ Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 1. [Introduction to ML Strategy](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
+
          - Setting up your goal
          - Comparing to human-level performance
 2. [ML Strategy (2)](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
+
          - Error Analysis
          - Mismatched training and dev/test set
          - Learning from multiple tasks
@@ -50,5 +53,4 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  2. [Natural Language Processing & Word Embeddings](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week2)
  3. [Sequence models & Attention mechanism](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week3)
  
-<p align="center"> *************************************************************************************************************************************</p>
 
