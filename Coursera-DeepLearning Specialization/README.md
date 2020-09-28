@@ -27,19 +27,20 @@ Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 2. [Optimization algorithms](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%202.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization_methods_v1b.ipynb)
 3. [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%202.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/TensorFlow_Tutorial_v3b.ipynb)
 
-# (NEED TO FIX)
+
 ## Course 3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-1. [Introduction to ML Strategy](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
+1. [Introduction to ML Strategy](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%203.%20Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
 
          - Setting up your goal
          - Comparing to human-level performance
-2. [ML Strategy (2)](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
+2. [ML Strategy (2)](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%203.%20Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
 
          - Error Analysis
          - Mismatched training and dev/test set
          - Learning from multiple tasks
          - End-to-end deep learning
-         
+  
+ # (NEED TO FIX) 
  ## Course 4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
  1. [Foundations of Convolutional Neural Networks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week1)
  2. [Deep convolutional models: case studies](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week2/ResNets) - Papers for read:  [ImageNet Classification with Deep Convolutional
