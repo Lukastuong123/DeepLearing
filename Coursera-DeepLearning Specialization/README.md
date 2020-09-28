@@ -40,7 +40,7 @@ Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
          - Learning from multiple tasks
          - End-to-end deep learning
   
- # (NEED TO FIX) 
+ # (Have not Finished) 
  ## Course 4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
  1. [Foundations of Convolutional Neural Networks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week1)
  2. [Deep convolutional models: case studies](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week2/ResNets) - Papers for read:  [ImageNet Classification with Deep Convolutional
