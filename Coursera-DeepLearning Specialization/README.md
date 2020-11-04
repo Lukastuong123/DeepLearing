@@ -40,15 +40,18 @@ Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
          - Learning from multiple tasks
          - End-to-end deep learning
   
- # (Have not Finished) 
+
  ## Course 4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
- 1. [Foundations of Convolutional Neural Networks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week1)
- 2. [Deep convolutional models: case studies](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week2/ResNets) - Papers for read:  [ImageNet Classification with Deep Convolutional
-Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
- 3. [Object detection](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week3/Car%20detection%20for%20Autonomous%20Driving) - Papers for read: [You Only Look Once:
+ 1. [Convolution model Application ](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%204.%20Convolutional%20Neural%20Networks/Convolution_model_Application_v1a.ipynb)
+ 2. [Convolution model Step by Step](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%204.%20Convolutional%20Neural%20Networks/Convolution_model_Step_by_Step_v2a.ipynb)
+ 3. [Deep convolutional models: case studies](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%204.%20Convolutional%20Neural%20Networks/Residual_Networks_v2a.ipynb) ----Papers for read:  [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+ 4. [Object detection](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%204.%20Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection_v3a.ipynb) ----Papers for read: [You Only Look Once:
 Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
- 4. [Special applications: Face recognition & Neural style transfer](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week4) - Papers for read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
+ 5. [Special applications: Face verification- recognition & Neural style transfer](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%204.%20Convolutional%20Neural%20Networks/Face_Verification%2B%2B%2BRecognition_v3a.ipynb)
+  6. [Special applications: Neural style transfer](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%204.%20Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+ - Papers for read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
  
+  # (Have not Finished) 
  ## Course 5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
  1. [Recurrent Neural Networks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week1)
  2. [Natural Language Processing & Word Embeddings](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week2)
