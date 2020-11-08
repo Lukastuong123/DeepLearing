@@ -85,15 +85,9 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
 
  ![](https://3.bp.blogspot.com/-3Pbj_dvt0Vo/V-qe-Nl6P5I/AAAAAAAABQc/z0_6WtVWtvARtMk0i9_AtLeyyGyV6AI4wCLcB/s1600/nmt-model-fast.gif)
 
----
 
-* **Vanila RNN**
+Types of RNN to solves the vanishing gradient problem and remember the long term dependencies 
 
-  ![](https://cdn-images-1.medium.com/max/880/1*xn5kA92_J5KLaKcP7BMRLA.gif)
-* **Vanila RNN**           |  
-:-------------------------:|
- ![](https://cdn-images-1.medium.com/max/880/1*xn5kA92_J5KLaKcP7BMRLA.gif) |  
-
-**LSTM**            |  **GRU**
+**GRU**            |  **LSTM**
 :-------------------------:|:-------------------------:
-![](https://cdn-images-1.medium.com/max/880/1*goJVQs-p9kgLODFNyhl9zA.gif) |  ![](https://cdn-images-1.medium.com/max/880/1*FpRS0C3EHQnELVaWRvb8bg.gif)
+![](https://cdn-images-1.medium.com/max/880/1*FpRS0C3EHQnELVaWRvb8bg.gif) | ![](https://cdn-images-1.medium.com/max/880/1*goJVQs-p9kgLODFNyhl9zA.gif) 
