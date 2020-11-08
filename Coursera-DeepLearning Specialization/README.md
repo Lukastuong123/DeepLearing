@@ -19,7 +19,10 @@ Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 3. [Building your Deep Neural Network - Step by Step](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 4. [Deep Neural Network for Image Classification: Application](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
+
+
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+## ![](https://i.pinimg.com/originals/63/62/8f/63628f546ad55fd31091e23c623cb9f5.gif)
 1. [Practical aspects of Deep Learning](https://github.com/Lukastuong123/DeepLearing-Projects-/tree/master/Coursera-DeepLearning%20Specialization/Course%202.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 
          - Gradient Checking
@@ -30,6 +33,7 @@ Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+![](https://i.pinimg.com/originals/9b/fa/97/9bfa978a4cf40fe2cdf8c710deb9b6f9.png)
 1. [Introduction to ML Strategy](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%203.%20Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
 
          - Setting up your goal
@@ -43,6 +47,23 @@ Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
   
 
  ## Course 4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+ 
+ * **Matrix Multiplication Between Image and Kernel Known as *Convolution Operation***
+
+![](https://i.stack.imgur.com/9OZKF.gif)
+
+
+
+![](https://cdn-images-1.medium.com/max/600/1*GdxHFaUDbvTXJreKg3S8SQ.gif)
+
+
+
+
+
+
+
+![](https://www.guru99.com/images/tensorflow/082918_1325_ConvNetConv9.gif)
+
  1. [Convolution model Application ](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%204.%20Convolutional%20Neural%20Networks/Convolution_model_Application_v1a.ipynb)
  2. [Convolution model Step by Step](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%204.%20Convolutional%20Neural%20Networks/Convolution_model_Step_by_Step_v2a.ipynb)
  3. [Deep convolutional models: case studies](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%204.%20Convolutional%20Neural%20Networks/Residual_Networks_v2a.ipynb) ----Papers for read:  [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
@@ -54,6 +75,22 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  
   # (Have not Finished) 
  ## Course 5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+ 
+ ![](https://3.bp.blogspot.com/-3Pbj_dvt0Vo/V-qe-Nl6P5I/AAAAAAAABQc/z0_6WtVWtvARtMk0i9_AtLeyyGyV6AI4wCLcB/s1600/nmt-model-fast.gif)
+
+---
+
+* **Vanila RNN**
+
+  ![](https://cdn-images-1.medium.com/max/880/1*xn5kA92_J5KLaKcP7BMRLA.gif)
+
+* **LSTM**
+
+![](https://cdn-images-1.medium.com/max/880/1*goJVQs-p9kgLODFNyhl9zA.gif)
+
+* **GRU**
+
+![](https://cdn-images-1.medium.com/max/880/1*FpRS0C3EHQnELVaWRvb8bg.gif)
  1. [Recurrent Neural Networks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week1)
  2. [Natural Language Processing & Word Embeddings](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week2)
  3. [Sequence models & Attention mechanism](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week3)
