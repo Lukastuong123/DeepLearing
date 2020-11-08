@@ -90,13 +90,9 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
 * **Vanila RNN**
 
   ![](https://cdn-images-1.medium.com/max/880/1*xn5kA92_J5KLaKcP7BMRLA.gif)
-
-* **LSTM**
-
-![](https://cdn-images-1.medium.com/max/880/1*goJVQs-p9kgLODFNyhl9zA.gif)
-
-* **GRU**
-![](https://cdn-images-1.medium.com/max/880/1*FpRS0C3EHQnELVaWRvb8bg.gif)
+* **Vanila RNN**           |  
+:-------------------------:|
+ ![](https://cdn-images-1.medium.com/max/880/1*xn5kA92_J5KLaKcP7BMRLA.gif) |  
 
 **LSTM**            |  **GRU**
 :-------------------------:|:-------------------------:
