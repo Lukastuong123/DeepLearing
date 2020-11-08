@@ -1,7 +1,6 @@
 # [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 
-This is my personal projects for the course. The course covers deep learning from begginer level to advanced. Highly recommend anyone wanting to break into AI. 
-
+This is my personal projects for the deep learning course from begginer level to advanced. Despite ups and downs for the past 4 months, I am extremely grateful for all the knowledge that I have accumulated for such an exciting field
 Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 
 
