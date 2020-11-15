@@ -3,9 +3,7 @@
 This is my personal projects for the deep learning course from begginer level to advanced. Despite ups and downs for the past 4 months, I am extremely grateful for all the knowledge that I have accumulated in such an exciting field
 
 
-Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
-
-Certificate: [Here](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Specialization%20Certificate.png)
+Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng) || Certificate: [Here](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Specialization%20Certificate.png)
 
 
 
