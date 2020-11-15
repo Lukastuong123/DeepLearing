@@ -18,7 +18,7 @@ Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 2. [Neural Networks Basics](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 3. [Building your Deep Neural Network - Step by Step](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 4. [Deep Neural Network for Image Classification: Application](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
- ## <div align=”center”>[](https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads_new/2018/03/hidden-layers-in-network.gif)
+ ## ![](https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads_new/2018/03/hidden-layers-in-network.gif)
 
 
 
