@@ -6,7 +6,7 @@ This is my personal projects for the deep learning course from begginer level to
 Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 
  ## ![](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Specialization%20Certificate.png =100x20)
-
+[<img align="left"   src="https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Specialization%20Certificate.png" width="200" height="200"/>][python]
 
 
 
