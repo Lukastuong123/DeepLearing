@@ -4,16 +4,15 @@ This is my personal projects for the deep learning course from begginer level to
 
 
 Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
-
- ## ![](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Specialization%20Certificate.png =100x20)
-[<img align="left"   src="https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Specialization%20Certificate.png" width="200" height="200"/>][python]
-
+<br />
+[<img align="left"   src="https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Specialization%20Certificate.png" width="600" height="500"/>][python]
 
 
 
 
 
 
+<br />
  ## Course 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 1. [Logistic Regression as a Neural Network](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 2. [Neural Networks Basics](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
@@ -97,3 +96,8 @@ Types of RNN to solves the vanishing gradient problem and remember the long term
 **GRU**            |  **LSTM**
 :-------------------------:|:-------------------------:
 ![](https://cdn-images-1.medium.com/max/880/1*FpRS0C3EHQnELVaWRvb8bg.gif) | ![](https://cdn-images-1.medium.com/max/880/1*goJVQs-p9kgLODFNyhl9zA.gif) 
+
+
+
+</details>
+[python]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
