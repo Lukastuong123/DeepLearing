@@ -5,9 +5,9 @@ This is my personal projects for the deep learning course from begginer level to
 
 Instructor: [Andrew Ng, DeepLearning.ai](https://www.linkedin.com/in/andrewyng)
 <br />
-[<img align="left"   src="https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Specialization%20Certificate.png" width="600" height="500"/>][python]
 
 
+<img src="https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Specialization%20Certificate.png" width="200" height="200" />
 
 
 
@@ -98,6 +98,3 @@ Types of RNN to solves the vanishing gradient problem and remember the long term
 ![](https://cdn-images-1.medium.com/max/880/1*FpRS0C3EHQnELVaWRvb8bg.gif) | ![](https://cdn-images-1.medium.com/max/880/1*goJVQs-p9kgLODFNyhl9zA.gif) 
 
 
-
-</details>
-[python]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
