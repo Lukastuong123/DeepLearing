@@ -74,14 +74,18 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
 
 ![](https://www.guru99.com/images/tensorflow/082918_1325_ConvNetConv9.gif)
  
-  # (Have not Finished) 
  ## Course 5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
  
 
 
- 1. [Recurrent Neural Networks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week1)
- 2. [Natural Language Processing & Word Embeddings](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week2)
- 3. [Sequence models & Attention mechanism](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week3)
+ 1. [Recurrent Neural Networks](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%205.%20Sequence%20Models/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
+ 2. [ Character-level language models- Dinosaur island](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%205.%20Sequence%20Models/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
+ 3. [Jazz improvisation with LSTMin](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%205.%20Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+ 4. [Emojify](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%205.%20Sequence%20Models/Emojify_v2a.ipynb)
+ 5. [Word Vector Representation](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%205.%20Sequence%20Models/Operations_on_word_vectors_v2a.ipynb)
+ 6. [Neural Machine Translation with Attention](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%205.%20Sequence%20Models/Neural_machine_translation_with_attention_v4a.ipynb)
+ 7. [Trigger word detection](https://github.com/Lukastuong123/DeepLearing-Projects-/blob/master/Coursera-DeepLearning%20Specialization/Course%205.%20Sequence%20Models/Trigger_word_detection_v1a.ipynb)
+
  
 
  ![](https://3.bp.blogspot.com/-3Pbj_dvt0Vo/V-qe-Nl6P5I/AAAAAAAABQc/z0_6WtVWtvARtMk0i9_AtLeyyGyV6AI4wCLcB/s1600/nmt-model-fast.gif)
