@@ -1,6 +1,8 @@
 # US Election 2020 Twitter Sentiment Analysis (Clustering NLP)
-Interactive Map, Natural Language Processing, Comparative Study, Regression)
+• Mined Twitter hash tags of Presidential Election with Tweepy API and performed Clustering to determine appropriate labels.
+• Conducted EDA, Rule-based approach with subjectivity- polarity, RoBERTa CNN (Unsupervised & Supervised) to investigate the text and separate tweets according to Negative, Positive, Neutral sentiment.
 
 ## Medium Post
-- Part A: https://towardsdatascience.com/airbnb-part-a-python-visualization-comparative-study-regression-7466c0cb5a1d
-- Part B: https://towardsdatascience.com/airbnb-part-b-python-interactive-map-natural-language-processing-48d472f14da3?gi=263a56774b5c
+- [Part A: Webscrapping with TwitterAPI, EDA](//) 
+- [Part B: Clustering NLP-- Rule-based approach VS. RoBERTa CNN ](//)
+
