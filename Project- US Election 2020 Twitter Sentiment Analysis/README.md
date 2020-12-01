@@ -4,5 +4,5 @@
 
 ## Medium Post
 - [Part A: Webscrapping with TwitterAPI, EDA](//) 
-- [Part B: Clustering NLP-- Rule-based approach VS. RoBERTa CNN ](//)
+- [Part B: Clustering NLP- Rule-based approach VS. RoBERTa CNN ](//)
 
