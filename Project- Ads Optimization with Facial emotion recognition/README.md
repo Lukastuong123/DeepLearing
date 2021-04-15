@@ -4,7 +4,9 @@ Built a real time facial expression recognition prototype to personalize targete
 
 Social Media post: 
 
-![image](https://user-images.githubusercontent.com/56985560/114799346-496eb700-9d4c-11eb-8241-414612855f22.png)
+Presentation:
+
+![image](https://user-images.githubusercontent.com/56985560/114799346-496eb700-9d4c-11eb-8241-414612855f22.png=150x150)
 ![image](https://user-images.githubusercontent.com/56985560/114799368-4ffd2e80-9d4c-11eb-9d29-8aaaddc0b433.png)
 ![image](https://user-images.githubusercontent.com/56985560/114799382-55f30f80-9d4c-11eb-86f4-3b6a58cc9dba.png)
 ![image](https://user-images.githubusercontent.com/56985560/114799390-5be8f080-9d4c-11eb-982d-de6a2f1b83a9.png)
