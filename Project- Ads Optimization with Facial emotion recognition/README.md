@@ -2,9 +2,9 @@
 
 Built a real time facial expression recognition prototype to personalize targeted ads for grocery stores visitors using CNN, Visual Geometry Group (VGG19) and Residual Network (ResNet); Expanded findings into GIS analysis, Wealth prediction with stimulated demographic data.
 
-##Social Media post: 
+### Social Media post: 
 
-##Presentation:
+### Presentation:
 
 ![image](https://user-images.githubusercontent.com/56985560/114799346-496eb700-9d4c-11eb-8241-414612855f22.png)
 ![image](https://user-images.githubusercontent.com/56985560/114799368-4ffd2e80-9d4c-11eb-9d29-8aaaddc0b433.png)
