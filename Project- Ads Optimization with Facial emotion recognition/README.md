@@ -5,11 +5,9 @@ Built a real time facial expression recognition prototype to personalize targete
 ### Social media post: 
 
 ### Presentation:
-
-![image](https://user-images.githubusercontent.com/56985560/114800218-234a1680-9d4e-11eb-97a8-caf9af4205c1.png)
-
+<!--- ![image](https://user-images.githubusercontent.com/56985560/114800218-234a1680-9d4e-11eb-97a8-caf9af4205c1.png) ---> 
+<!--- ![image](https://user-images.githubusercontent.com/56985560/114800261-3c52c780-9d4e-11eb-9624-e60c9eae8eff.png) ---> 
 ![image](https://user-images.githubusercontent.com/56985560/114800280-48d72000-9d4e-11eb-8bfc-5aac03333997.png)
 ![image](https://user-images.githubusercontent.com/56985560/114800294-512f5b00-9d4e-11eb-8a89-de1188b80960.png)
 ![image](https://user-images.githubusercontent.com/56985560/114800306-568ca580-9d4e-11eb-8e69-e48042fcbe53.png)
 
-<!--- ![image](https://user-images.githubusercontent.com/56985560/114800261-3c52c780-9d4e-11eb-9624-e60c9eae8eff.png) ---> 
