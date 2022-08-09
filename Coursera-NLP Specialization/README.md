@@ -17,4 +17,7 @@
 • Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering and to build chatbots. Models covered include T5, BERT, transformer, reformer, and more!
 Enjoy!
 
+![image](https://user-images.githubusercontent.com/56985560/183568182-e120700d-8741-426e-aaba-28ee55917056.png)
+
+
 
