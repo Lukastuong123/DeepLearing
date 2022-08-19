@@ -1,2 +1,2 @@
-# audio_analyzer_assemblyai
-Project video on my Youtube channel about building an audio content analyzer dashboard.
+# Audio Data Analysis dashboard 
+Project using the Assemblyai API to analyze the audio file and illustreate on the dashboard
