@@ -3,9 +3,12 @@ Use MovieLens dataset to build a movie recommender engine using collaborative fi
 
 
 ## Prerequisites
-Download MovieLens DataSet
-Move ratings.csv and movies.csv to src/main/resources/
+1. Download MovieLens DataSet
+2. Move ratings.csv and movies.csv to src/main/resources/
+```
 scalaVersion := "2.13.11"
+```
+
 build.sbt
 name := "RecommendationSystem"
 
