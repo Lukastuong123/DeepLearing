@@ -16,7 +16,7 @@ ALS has proven to be effective in generating high-quality recommendations and is
 
 
 ## Prerequisites
-1. Download MovieLens DataSet
+1. Download [MovieLens DataSet](https://grouplens.org/datasets/movielens/)
 2. Move ratings.csv and movies.csv to src/main/resources/
 ```
 scalaVersion := "2.13.11"
