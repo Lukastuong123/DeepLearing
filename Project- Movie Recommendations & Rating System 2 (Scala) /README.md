@@ -1,9 +1,7 @@
 # Movie recommendation Engine using Spark MLlib & Scala
 Use MovieLens dataset to build a movie recommender engine using collaborative filtering with Spark's Alternating Least Saqures implementation.
 
-ALS (Alternating Least Squares) is a collaborative filtering algorithm used for recommendation systems. It is widely used to make personalized recommendations based on user-item interactions, such as user ratings or purchase history.
-
-The ALS algorithm is based on matrix factorization, where it decomposes the user-item interaction matrix into two lower-rank matrices: one representing users' preferences and the other representing item attributes. The idea is that by reducing the dimensionality of the original matrix, we can capture the underlying patterns and relationships between users and items.
+ALS (Alternating Least Squares) is a collaborative filtering algorithm used for recommendation systems. It is widely used to make personalized recommendations based on user-item interactions, such as user ratings or purchase history. The ALS algorithm is based on matrix factorization, where it decomposes the user-item interaction matrix into two lower-rank matrices: one representing users' preferences and the other representing item attributes. The idea is that by reducing the dimensionality of the original matrix, we can capture the underlying patterns and relationships between users and items.
 Here's an overview of how ALS works:
 
 1. Input: The input to ALS is a user-item interaction matrix, where each entry represents the level of interaction (e.g., rating) between a user and an item. This matrix is often sparse since not all users have interacted with all items.
