@@ -9,8 +9,8 @@ Use MovieLens dataset to build a movie recommender engine using collaborative fi
 scalaVersion := "2.13.11"
 ```
 
-build.sbt
-name := "RecommendationSystem"
+## build.sbt
+name := "MovieRecommendation"
 
 ```
 version := "0.1.0-SNAPSHOT"
